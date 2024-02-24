@@ -35,6 +35,7 @@ Feel free to explore my repositories to get a better understanding of my skills 
 ---
 
 ### Always Remember !
-``` BASH
-"No cualquiera puede convertirse en un gran artista, pero un gran artista sí puede provenir de cualquier lugar." [Gusteau Chef - Ratatouille]
+```
+"No cualquiera puede convertirse en un gran artista,
+pero un gran artista sí puede provenir de cualquier lugar." [Gusteau Chef - Ratatouille]
 ```
